@@ -40,7 +40,7 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 ## PROGRAM:
 ```
 #Program to implement random classification.
-#Developed by  :JANITH CHOWDARY
+#Developed by   : JANITH CHOWDARY
 #Register Number :  212220230057
 ```
 ```python
@@ -66,9 +66,6 @@ print(" ")
 print(w)
 ```
 
-
-
-
 ## OUTPUT:
 
 <img width="766" alt="output" src="https://user-images.githubusercontent.com/75234991/164034556-ebeff13b-a07b-4277-82ab-39cfcd05244e.png">
@@ -76,3 +73,4 @@ print(w)
 ## RESULT:
 
 Thus the Back Propagation with Single Neuron was successfully implemented using python programming.
+
